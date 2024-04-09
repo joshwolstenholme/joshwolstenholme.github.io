@@ -1,8 +1,10 @@
 ---
 layout: archive
 title: "Contact Me"
-permalink: /publications/
+permalink: /contact/
 author_profile: true
 ---
 
-Get in touch via [email](mailto:j.m.wolstenholme@lboro.ac.uk) or over on [X](https://twitter.com/josh_NFM).
+Want to get in touch?
+- Email me at [j.m.wolstenholme@lboro.ac.uk](mailto:j.m.wolstenholme@lboro.ac.uk)
+- Send me a message on [X](https://twitter.com/josh_NFM).
