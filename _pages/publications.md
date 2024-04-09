@@ -9,18 +9,18 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-# Peer Reviewed Publications
+## Peer Reviewed Publications
 
 - Jones, L., Parsons, K, J., Halstead, F. and **Wolstenholme, JM**. 2023. Reimagining activism to save the planet - using transdisciplinary and participatory methodologies to support collective youth action. _Children and Society_. [https://doi.org/10.1111/chso.12819](https://doi.org/10.1111/chso.12819)
 - **Wolstenholme, JM.**, Smith, MW., Baird, AJ., Sim, TG. 2020. A new approach for measuring surface hydrological connectivity. _Hydrological Processes_. 34, pp.538– 552. [https://doi.org/10.1002/hyp.13602](https://doi.org/10.1002/hyp.13602)
 
-# Reports
+## Reports
 
 - **Wolstenholme, JM.**, Nolan, J., Townsend, E., Ahmed, J., Parsons, K., Davidson, G., Thomas, R., Parsons, D. 2022. Differentiating Between Unutilised Gaps and Gaps for Access in Hedgerow Using Remote Sensing. The Tree Council.
 - **Wolstenholme, JM.**, Cooper, F., Davidson, G., Parsons, K., Ahmed, J., & Thomas, R. 2021. Hedgerows: Mapping The Gaps Final Report. Natural England. [https://hull-repository.worktribe.com/output/3796052](https://hull-repository.worktribe.com/output/3796052)
 - Smith, K., Thomas, R., Skinner, C., Davidson, G., Parsons, D., McLelland, S., Coulthard, T., Mazik, K., Harrison, L., Ramsden, S., Moloney, J., Ahmed, J., Carter, C., **Wolstenholme, J.**, Halstead, F., and Betts, P. 2020. UK Parliament Environment, Food and Rural Affairs Select Committee Flooding Inquiry: Written Evidence from Dr Kate Smith et al. (FLO0043). Available from: [https://committees.parliament.uk/writtenevidence/5090/pdf/](https://committees.parliament.uk/writtenevidence/5090/pdf/).
 
-# Conference Presentations
+## Conference Presentations
 
 - **Wolstenholme, J.**, Skinner, C., Milan, D., Thomas, R., & Parsons, D. 2024. Basin-scale hydrological response to leaky wooden dam installation. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-8881, [https://doi.org/10.5194/egusphere-egu24-8881](https://doi.org/10.5194/egusphere-egu24-8881). `Oral`
 - Tomsett, C., Leyland, J., Darby, S., Gernon, T., Parsons, D., Hincks, T., and **Wolstenholme, J.** Vertical Mixing of Suspended Sediment in Big Rivers using ADCP data and Machine Learning. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-9717, [https://doi.org/10.5194/egusphere-egu24-9717](https://doi.org/10.5194/egusphere-egu24-9717), 2024. `Oral`
