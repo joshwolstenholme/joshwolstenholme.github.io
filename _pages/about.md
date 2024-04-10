@@ -16,6 +16,6 @@ I'm interested in how natural flood management influences geomorphic change, and
 
 ## Background
 
-I completed my PhD in Physical Geography in 2023 at the [University of Hull](https://www.hull.ac.uk), with a focus on understanding the impact of leaky wooden dams on fluvial geomorphology, ultimately integrating these observations into a landscape evolution model.
+I completed my PhD in Physical Geography in 2023 at the [University of Hull](https://www.hull.ac.uk){:target="_blank"}, with a focus on understanding the impact of leaky wooden dams on fluvial geomorphology, ultimately integrating these observations into a landscape evolution model.
 
-Prior to this, I completed a Masters by Research looking at surface hydrological connectivity in semi-arid environments at the [University of Leeds](https://www.leeds.ac.uk), and a BSc in Geological Sciences, also at Leeds.
+Prior to this, I completed a Masters by Research looking at surface hydrological connectivity in semi-arid environments at the [University of Leeds](https://www.leeds.ac.uk){:target="_blank"}, and a BSc in Geological Sciences, also at Leeds.

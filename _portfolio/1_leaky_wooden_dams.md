@@ -4,14 +4,4 @@ excerpt: "This work reports on field monitoring of two leaky wooden dam installa
 collection: portfolio
 ---
 
-More information coming soon
-
-# Fieldwork
-
-# Modelling in CAESAR-Lisflood
-
-# Reach examples
-
-# Catchment examples
-
-# Response to climate change
+Information coming soon.
