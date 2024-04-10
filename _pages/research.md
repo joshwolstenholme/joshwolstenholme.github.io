@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: collection
 title: "Research Projects"
 permalink: /research/
 author_profile: true
