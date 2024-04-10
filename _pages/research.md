@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: compress
 title: "Research Projects"
 permalink: /research/
 author_profile: true
