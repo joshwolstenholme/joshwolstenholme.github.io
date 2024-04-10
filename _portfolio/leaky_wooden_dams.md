@@ -1,6 +1,6 @@
 ---
 title: "Monitoring & modelling fluvial hydrogeomorphic response to leaky wooden dams"
-excerpt: "This work reports on field monitoring of two leaky wooden dam installations and integrates findings into a landscape evolution model.<br/><img src='/images/leaky_dams/leaky_dams_bridestones.png'>"
+excerpt: "This work reports on field monitoring of two leaky wooden dam installations and integrates findings into a landscape evolution model.<br/><img src='/images/leaky_dams/leaky_dams_bridestones.jpg'>"
 collection: portfolio
 ---
 
