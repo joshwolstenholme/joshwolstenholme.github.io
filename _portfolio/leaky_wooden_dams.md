@@ -4,7 +4,7 @@ excerpt: "This work reports on field monitoring of two leaky wooden dam installa
 collection: portfolio
 ---
 
-Leaky dam text
+More information coming soon
 
 # Fieldwork
 

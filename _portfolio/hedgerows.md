@@ -4,4 +4,4 @@ excerpt: "Hedgerow deep learning and co-creation<br/><img src='/images/hedgerows
 collection: portfolio
 ---
 
-Some text about hedgerows
+More information coming soon

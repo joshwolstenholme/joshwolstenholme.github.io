@@ -4,4 +4,4 @@ excerpt: "Quantifying soil carbon using hyperspectral imagery<br/><img src='/ima
 collection: portfolio
 ---
 
-Some text
+Information coming soon.
