@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: talk
 title: "Research Projects"
 permalink: /research/
 author_profile: true
