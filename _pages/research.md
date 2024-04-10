@@ -1,20 +1,13 @@
 ---
-layout: talk
+layout: archive
 title: "Research Projects"
 permalink: /research/
 author_profile: true
 ---
 
-## Leaky wooden dams
+{% include base_path %}
 
-short description
 
-## The 360 Lab
-
-short description
-
-## Hedgerows
-
-short description
-
-## 
+{% for post in site.research %}
+  {% include archive-single.html %}
+{% endfor %}
