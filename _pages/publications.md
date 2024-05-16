@@ -11,9 +11,7 @@ author_profile: true
 
 ## Peer Reviewed Publications
 
-Ockelford, A., Wohl, E., Ruiz-Villanueva, V., Comiti, F., Piegay, H., Parsons, D., Darby, S., Aarnink, J., Ader, E., Ash, J., Christensen, N., Beeby, J., Dunn, S., Emmanuel, T., Heath, J., Hinshaw, S., Hortobagyi, B., del Hoyo, J., Iskin, E., Johaneman, T., Karpack, M., Kemper, J., Lininger, K., Marshall, A., Milan, D., Morrison, R., Rathburn, S., Rees, J., Scamardo, J., Scott, D., Smrdel, T., Stroth, T., Triantafillou, S., Uno, H., White, D., **Wolstenholme, JM.**, Yochum, S. under review. Working with Wood in Rivers in the Western United States. _River Research and Applications_.
-
-
+- Ockelford, A., Wohl, E., Ruiz-Villanueva, V., Comiti, F., Piegay, H., Parsons, D., Darby, S., Aarnink, J., Ader, E., Ash, J., Christensen, N., Beeby, J., Dunn, S., Emmanuel, T., Heath, J., Hinshaw, S., Hortobagyi, B., del Hoyo, J., Iskin, E., Johaneman, T., Karpack, M., Kemper, J., Lininger, K., Marshall, A., Milan, D., Morrison, R., Rathburn, S., Rees, J., Scamardo, J., Scott, D., Smrdel, T., Stroth, T., Triantafillou, S., Uno, H., White, D., **Wolstenholme, JM.**, Yochum, S. under review. Working with Wood in Rivers in the Western United States. _River Research and Applications_.
 - Jones, L., Parsons, K, J., Halstead, F. and **Wolstenholme, JM**. 2023. Reimagining activism to save the planet - using transdisciplinary and participatory methodologies to support collective youth action. _Children and Society_. [https://doi.org/10.1111/chso.12819](https://doi.org/10.1111/chso.12819){:target="_blank"}
 - **Wolstenholme, JM.**, Smith, MW., Baird, AJ., Sim, TG. 2020. A new approach for measuring surface hydrological connectivity. _Hydrological Processes_. 34, pp.538– 552. [https://doi.org/10.1002/hyp.13602](https://doi.org/10.1002/hyp.13602){:target="_blank"}
 
