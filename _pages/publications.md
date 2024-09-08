@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 ## Peer Reviewed Publications and Preprints
 
 - **Wolstenholme, JM.**, Cooper, F., Thomas, RE., Ahmed, J., Parsons, KJ. & Parsons, D. 2024. Automated identification of hedgerows and hedgerow gaps using deep learning. ![Static Badge](https://img.shields.io/badge/preprint-red) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12818496.svg)](https://doi.org/10.5281/zenodo.12818496){:target="_blank"}
@@ -26,13 +22,13 @@ author_profile: true
 ## Conference Presentations
 
 - **Wolstenholme, J.** The impact of not simulating dynamic geomorphology on flood inundation. British Society for Geomorphology Annual General Meeting 2024, Loughborough, UK, 02-05 Sep 2024. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13731835.svg)](https://doi.org/10.5281/zenodo.13731835){:target="_blank"} ![Static Badge](https://img.shields.io/badge/poster-yellow)
-- **Wolstenholme, J.**, Skinner, C., Milan, D., Thomas, R., & Parsons, D. 2024. Basin-scale hydrological response to leaky wooden dam installation. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-8881, [https://doi.org/10.5194/egusphere-egu24-8881](https://doi.org/10.5194/egusphere-egu24-8881){:target="_blank"}. ![Static Badge](https://img.shields.io/badge/oral-blue)
+- **Wolstenholme, J.**, Skinner, C., Milan, D., Thomas, R., & Parsons, D. 2024. Basin-scale hydrological response to leaky wooden dam installation. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-8881. [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-egu24-8881.svg)](https://doi.org/10.5194/egusphere-egu24-8881){:target="_blank"} ![Static Badge](https://img.shields.io/badge/oral-blue)
 - Tomsett, C., Leyland, J., Darby, S., Gernon, T., Parsons, D., Hincks, T., and **Wolstenholme, J.** 2024. Vertical Mixing of Suspended Sediment in Big Rivers using ADCP data and Machine Learning. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-9717, [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-egu24-9717.svg)](https://doi.org/10.5194/egusphere-egu24-9717){:target="_blank"} ![Static Badge](https://img.shields.io/badge/oral-blue)
 - **Wolstenholme, JM.**, Skinner, C. J., Milan, D. J., Thomas, R. E., & Parsons, D. R. 2023. Monitoring and modelling riverine geomorphic evolution in response to leaky wooden dam installations. Gravel Bed Rivers 9, Villarrica, Chile, 10–13 Jan. ![Static Badge]https://img.shields.io/badge/poster-yellow
 - Skinner, C., and **Wolstenholme, J.** 2022. Modelling the efficacy of leaky dams using a Landscape Evolution Model. British Hydrological Society 14th National Symposium. 12-14 Sep. Lancaster, UK. ![Static Badge](https://img.shields.io/badge/oral-blue)
 - **Wolstenholme, J.**, Skinner, C., Milan. D. and Parsons, D. Catchment-scale geomorphological modelling of leaky dams using CAESAR-Lisflood. EGU General Assembly 2022, Vienna, Austria, 23–27 May, EGU22-5730, [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-egu22-5730.svg)](https://doi.org/10.5194/egusphere-egu22-5730){:target="_blank"} ![Static Badge](https://img.shields.io/badge/oral-blue)
 - **Wolstenholme, J.**, Skinner, C., Milan, D., and Parsons, D. 2021. Catchment-scale geomorphological modelling of leaky dams using CAESAR-Lisflood. 2021. River Restoration Centre 22nd Annual Network Conference. 21–22 Oct. Harrogate, UK. ![Static Badge](https://img.shields.io/badge/oral-blue)
-- **Wolstenholme, J.**, and Skinner, C. 2021. The 360 Lab. EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-10189, [![DOI](https://zenodo.org/badge/10.5194/egusphere-egu21-10189.svg)](https://doi.org/10.5194/egusphere-egu21-10189){:target="_blank"} ![Static Badge](https://img.shields.io/badge/oral-blue)
+- **Wolstenholme, J.**, and Skinner, C. 2021. The 360 Lab. EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-10189. [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-egu21-10189.svg)](https://doi.org/10.5194/egusphere-egu21-10189){:target="_blank"} ![Static Badge](https://img.shields.io/badge/oral-blue)
 - Parsons, K., and **Wolstenholme, J.** 2021. Mapping hedgerow gaps and fostering positive environmental behaviours through a combination of citizen scientists and artificial intelligence. EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-9453, [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-egu21-9453.svg)](https://doi.org/10.5194/egusphere-egu21-9453){:target="_blank"} ![Static Badge](https://img.shields.io/badge/oral-blue)
 - **Wolstenholme, J.**, Skinner, C., Milan, D., and Parsons., D. 2019. Leaky dams for Natural Flood Management: assessing hydrogeomorphic impacts. British Society for Geomorphology Annual Meeting. 9–11 September. Sheffield, UK. ![Static Badge](https://img.shields.io/badge/poster-yellow)
 - **Wolstenholme, J.**, Skinner, C., and Parsons, D. 2019. The long-term geomorphological impact of Natural Flood Management. River Restoration Centre 20th Annual Network Conference. 30 April–1 May. Liverpool, UK. ![Static Badge](https://img.shields.io/badge/poster-yellow)
