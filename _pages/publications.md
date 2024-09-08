@@ -16,6 +16,7 @@ author_profile: true
 - Ockelford, A., Wohl, E., Ruiz-Villanueva, V., Comiti, F., Piegay, H., Parsons, D., Darby, S., Aarnink, J., Ader, E., Ash, J., Christensen, N., Beeby, J., Dunn, S., Emmanuel, T., Heath, J., Hinshaw, S., Hortobagyi, B., del Hoyo, J., Iskin, E., Johaneman, T., Karpack, M., Kemper, J., Lininger, K., Marshall, A., Milan, D., Morrison, R., Rathburn, S., Rees, J., Scamardo, J., Scott, D., Smrdel, T., Stroth, T., Triantafillou, S., Uno, H., White, D., **Wolstenholme, JM.**, Yochum, S. 2024. Working with Wood in Rivers in the Western United States. _River Research and Applications_. [https://doi.org/10.1002/rra.4331](https://doi.org/10.1002/rra.4331){:target="_blank"}
 - Jones, L., Parsons, K, J., Halstead, F. and **Wolstenholme, JM**. 2023. Reimagining activism to save the planet - using transdisciplinary and participatory methodologies to support collective youth action. _Children and Society_. [https://doi.org/10.1111/chso.12819](https://doi.org/10.1111/chso.12819){:target="_blank"}
 - **Wolstenholme, JM.**, Smith, MW., Baird, AJ., Sim, TG. 2020. A new approach for measuring surface hydrological connectivity. _Hydrological Processes_. 34, pp.538– 552. [https://doi.org/10.1002/hyp.13602](https://doi.org/10.1002/hyp.13602){:target="_blank"}
+- [![DOI](https://zenodo.org/badge/DOI/10.1002/hyp.13602.svg)](https://doi.org/10.1002/hyp.13602){:target="_blank"}
 
 ## Reports
 
@@ -25,7 +26,7 @@ author_profile: true
 
 ## Conference Presentations
 
-- **Wolstenholme, J.** The impact of not simulating dynamic geomorphology on flood inundation. British Society for Geomorphology Annual General Meeting 2024, Loughborough, UK, 02-05 Sep 2024. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13731835.svg)](https://doi.org/10.5281/zenodo.13731835)
+- **Wolstenholme, J.** The impact of not simulating dynamic geomorphology on flood inundation. British Society for Geomorphology Annual General Meeting 2024, Loughborough, UK, 02-05 Sep 2024. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13731835.svg)](https://doi.org/10.5281/zenodo.13731835){:target="_blank"}
 - **Wolstenholme, J.**, Skinner, C., Milan, D., Thomas, R., & Parsons, D. 2024. Basin-scale hydrological response to leaky wooden dam installation. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-8881, [https://doi.org/10.5194/egusphere-egu24-8881](https://doi.org/10.5194/egusphere-egu24-8881){:target="_blank"}. <span style="background-color:#0D6986;color:white"> Oral </span>
 - Tomsett, C., Leyland, J., Darby, S., Gernon, T., Parsons, D., Hincks, T., and **Wolstenholme, J.** Vertical Mixing of Suspended Sediment in Big Rivers using ADCP data and Machine Learning. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-9717, [https://doi.org/10.5194/egusphere-egu24-9717](https://doi.org/10.5194/egusphere-egu24-9717){:target="_blank"}, 2024. <span style="background-color:#0D6986;color:white"> Oral </span>
 - **Wolstenholme, JM.**, Skinner, C. J., Milan, D. J., Thomas, R. E., & Parsons, D. R. 2023. Monitoring and modelling riverine geomorphic evolution in response to leaky wooden dam installations. Gravel Bed Rivers 9, Villarrica, Chile, 10–13 Jan. <span style="background-color:#DBA507;color:black">Poster</span>
