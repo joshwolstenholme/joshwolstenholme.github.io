@@ -25,6 +25,7 @@ author_profile: true
 
 ## Conference Presentations
 
+- **Wolstenholme, J.** The impact of not simulating dynamic geomorphology on flood inundation. British Society for Geomorphology Annual General Meeting 2024, Loughborough, UK, 02-05 Sep 2024. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13731835.svg)](https://doi.org/10.5281/zenodo.13731835)
 - **Wolstenholme, J.**, Skinner, C., Milan, D., Thomas, R., & Parsons, D. 2024. Basin-scale hydrological response to leaky wooden dam installation. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-8881, [https://doi.org/10.5194/egusphere-egu24-8881](https://doi.org/10.5194/egusphere-egu24-8881){:target="_blank"}. <span style="background-color:#0D6986;color:white"> Oral </span>
 - Tomsett, C., Leyland, J., Darby, S., Gernon, T., Parsons, D., Hincks, T., and **Wolstenholme, J.** Vertical Mixing of Suspended Sediment in Big Rivers using ADCP data and Machine Learning. EGU General Assembly 2024, Vienna, Austria, 14–19 Apr 2024, EGU24-9717, [https://doi.org/10.5194/egusphere-egu24-9717](https://doi.org/10.5194/egusphere-egu24-9717){:target="_blank"}, 2024. <span style="background-color:#0D6986;color:white"> Oral </span>
 - **Wolstenholme, JM.**, Skinner, C. J., Milan, D. J., Thomas, R. E., & Parsons, D. R. 2023. Monitoring and modelling riverine geomorphic evolution in response to leaky wooden dam installations. Gravel Bed Rivers 9, Villarrica, Chile, 10–13 Jan. <span style="background-color:#DBA507;color:black">Poster</span>
