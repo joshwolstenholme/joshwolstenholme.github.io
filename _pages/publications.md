@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer Reviewed Publications and Preprints
 
-- **Wolstenholme, JM.**, Skinner, CJ., Milan, DJ., Thomas, RE. & Parsons., DR. 2024. Localised geomorphic response to channel-spanning leaky wooden dams, EGUsphere [preprint]. ![Static Badge](https://img.shields.io/badge/DOI-pending-red)
+- **Wolstenholme, JM.**, Skinner, CJ., Milan, DJ., Thomas, RE. & Parsons., DR. 2024. Localised geomorphic response to channel-spanning leaky wooden dams, _EGUsphere_. ![Static Badge](https://img.shields.io/badge/preprint-red) ![Static Badge](https://img.shields.io/badge/DOI-pending-red)
 - Parsons, KJ. & **Wolstenholme JM**. _In review_. Celebrating the unsung heroes: What young people, hedgerows, and playfulness have in common within the climate crisis discourse. _Children’s Geographies_.
 - **Wolstenholme, JM.**, Cooper, F., Thomas, RE., Ahmed, J., Parsons, KJ. & Parsons, D. 2024. Automated identification of hedgerows and hedgerow gaps using deep learning. ![Static Badge](https://img.shields.io/badge/preprint-red) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12818496.svg)](https://doi.org/10.5281/zenodo.12818496){:target="_blank"}
 - **Wolstenholme, JM.**, Skinner, CJ., Milan, DJ., Thomas, RE. & Parsons., DR. 2024. Hydro-geomorphological modelling of leaky wooden dam efficacy from reach to catchment scale with CAESAR-Lisflood 1.9j, _EGUsphere_. ![Static Badge](https://img.shields.io/badge/preprint-red) [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-2024-2132.svg)](https://doi.org/10.5194/egusphere-2024-2132){:target="blank"}
