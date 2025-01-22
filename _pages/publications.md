@@ -13,7 +13,7 @@ author_profile: true
 - Jones, L., Parsons, K, J., Halstead, F. & **Wolstenholme, JM**. 2023. Reimagining activism to save the planet - using transdisciplinary and participatory methodologies to support collective youth action. _Children and Society_. [![DOI](https://zenodo.org/badge/DOI/10.1111/chso.12819.svg)](https://doi.org/10.1111/chso.12819){:target="_blank"}
 - **Wolstenholme, JM.**, Smith, MW., Baird, AJ. & Sim, TG. 2020. A new approach for measuring surface hydrological connectivity. _Hydrological Processes_. 34, pp.538– 552. [![DOI](https://zenodo.org/badge/DOI/10.1002/hyp.13602.svg)](https://doi.org/10.1002/hyp.13602){:target="_blank"}
 
-## Publications In Reviewe
+## In Review
 
 - **Wolstenholme, JM.**, Skinner, CJ., Hackney, CR., Perks, MT. & Parsons., DR. _In review_. Flood hazard amplification by intra-event sediment transport. _Communications Earth & Environment_. ![Static Badge](https://img.shields.io/badge/preprint-red) ![Static Badge](https://img.shields.io/badge/DOI-pending-red)
 - **Wolstenholme, JM.**, Skinner, CJ., Milan, DJ., Thomas, RE. & Parsons., DR. 2024. Localised geomorphic response to channel-spanning leaky wooden dams. _EGUsphere_. ![Static Badge](https://img.shields.io/badge/preprint-red) [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-2024-3001.svg)](https://doi.org/10.5194/egusphere-2024-3001){:target="blank"}
