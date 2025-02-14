@@ -21,6 +21,7 @@ author_profile: true
 
 ## Reports
 
+- **Wolstenholme, JM.** Written evidence for the Environmental Audit Committee inquiry on Flood resilience in England (FRE0020). Available from: [https://committees.parliament.uk/writtenevidence/133598/pdf/](https://committees.parliament.uk/writtenevidence/133598/pdf/){:target="_blank"}.
 - **Wolstenholme, JM.**, Nolan, J., Townsend, E., Ahmed, J., Parsons, K., Davidson, G., Thomas, R. & Parsons, D. 2022. Differentiating Between Unutilised Gaps and Gaps for Access in Hedgerow Using Remote Sensing. The Tree Council.
 - **Wolstenholme, JM.**, Cooper, F., Davidson, G., Parsons, K., Ahmed, J., & Thomas, R. 2021. Hedgerows: Mapping The Gaps Final Report. Natural England. [https://hull-repository.worktribe.com/output/3796052](https://hull-repository.worktribe.com/output/3796052){:target="_blank"}
 - Smith, K., Thomas, R., Skinner, C., Davidson, G., Parsons, D., McLelland, S., Coulthard, T., Mazik, K., Harrison, L., Ramsden, S., Moloney, J., Ahmed, J., Carter, C., **Wolstenholme, J.**, Halstead, F., & Betts, P. 2020. UK Parliament Environment, Food and Rural Affairs Select Committee Flooding Inquiry: Written Evidence from Dr Kate Smith et al. (FLO0043). Available from: [https://committees.parliament.uk/writtenevidence/5090/pdf/](https://committees.parliament.uk/writtenevidence/5090/pdf/){:target="_blank"}.
