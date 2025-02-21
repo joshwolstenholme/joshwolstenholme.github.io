@@ -10,11 +10,11 @@ To address the lack of sediment transport in large-scale leaky dam numerical mod
 
 1. Monitored the impact on fluvial geomorphology of two leaky dams in a small reach.
 
-Paper: **Wolstenholme, JM.**, Skinner, CJ., Milan, DJ., Thomas, RE. & Parsons., DR. in press. Hydro-geomorphological modelling of leaky wooden dam efficacy from reach to catchment scale with CAESAR-Lisflood 1.9j, _Geoscientific Model Development_. ![Static Badge](https://img.shields.io/badge/in_press-green) [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-2024-2132.svg)](https://doi.org/10.5194/egusphere-2024-2132){:target="blank"}
+Paper: **Wolstenholme, JM.**, Skinner, CJ., Milan, DJ., Thomas, RE. & Parsons., DR. 2024. Localised geomorphic response to channel-spanning leaky wooden dams. _EGUsphere_. ![Static Badge](https://img.shields.io/badge/preprint-red) [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-2024-3001.svg)](https://doi.org/10.5194/egusphere-2024-3001){:target="blank"}
 
 2. Incorporated a simple method for representing leaky wooden dams into the landscape evolution model [CAESAR-Lisflood](https://sourceforge.net/projects/caesar-lisflood/){:target="_blank"}.
 
-Paper: **Wolstenholme, JM.**, Skinner, CJ., Milan, DJ., Thomas, RE. & Parsons., DR. 2024. Localised geomorphic response to channel-spanning leaky wooden dams. _EGUsphere_. ![Static Badge](https://img.shields.io/badge/preprint-red) [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-2024-3001.svg)](https://doi.org/10.5194/egusphere-2024-3001){:target="blank"}
+Paper: **Wolstenholme, JM.**, Skinner, CJ., Milan, DJ., Thomas, RE. & Parsons., DR. in press. Hydro-geomorphological modelling of leaky wooden dam efficacy from reach to catchment scale with CAESAR-Lisflood 1.9j, _Geoscientific Model Development_. ![Static Badge](https://img.shields.io/badge/in_press-green) [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-2024-2132.svg)](https://doi.org/10.5194/egusphere-2024-2132){:target="blank"}
 
 3. Evaluated the impact of leaky dams on hydrology and geomorphology at reach and catchment scales in response to a future climate scenario.
 
