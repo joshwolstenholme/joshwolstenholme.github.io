@@ -15,7 +15,7 @@ author_profile: true
 
 ## In Review
 
-- **Wolstenholme, JM.**, Skinner, CJ., Hackney, CR., Perks, MT. & Parsons., DR. _In review_. Flood hazard amplification by intra-event sediment transport. _Communications Earth & Environment_. ![Static Badge](https://img.shields.io/badge/preprint-red) ![Static Badge](https://img.shields.io/badge/DOI-pending-red)[![DOI](https://zenodo.org/badge/DOI/10.21203/rs.3.rs-5554547/v1.svg)](https://doi.org/10.21203/rs.3.rs-5554547/v1){:target="blank"}
+- **Wolstenholme, JM.**, Skinner, CJ., Hackney, CR., Perks, MT. & Parsons., DR. _In review_. Flood hazard amplification by intra-event sediment transport. _Communications Earth & Environment_. ![Static Badge](https://img.shields.io/badge/preprint-red) [![DOI](https://zenodo.org/badge/DOI/10.21203/rs.3.rs-5554547/v1.svg)](https://doi.org/10.21203/rs.3.rs-5554547/v1){:target="blank"}
 - **Wolstenholme, JM.**, Skinner, CJ., Milan, DJ., Thomas, RE. & Parsons., DR. 2024. Localised geomorphic response to channel-spanning leaky wooden dams. _EGUsphere_. ![Static Badge](https://img.shields.io/badge/preprint-red) [![DOI](https://zenodo.org/badge/DOI/10.5194/egusphere-2024-3001.svg)](https://doi.org/10.5194/egusphere-2024-3001){:target="blank"}
 - Parsons, KJ. & **Wolstenholme JM**. _In review_. Celebrating the unsung heroes: What young people, hedgerows, and playfulness have in common within the climate crisis discourse. _Children’s Geographies_.
 
