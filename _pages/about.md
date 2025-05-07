@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Josh, a Research Associate based at Loughborough University.
+Hi! I'm Josh, a Research Fellow based at Loughborough University.
 
 My work focuses on the influence of sediment transport and geomorphic change on flood risk, using a combination of numerical modelling and field observations.
 
