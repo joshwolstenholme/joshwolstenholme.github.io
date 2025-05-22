@@ -11,7 +11,7 @@ title                    : "Dr Josh Wolstenholme"
 title_separator          : "-"
 name                     : &name "Josh Wolstenholme"
 email                    : "j.m.wolstenholme@lboro.ac.uk"
-description              : &description "Research Associate in Geoscience"
+description              : &description "Vice-Chancellor Independent Research Fellow"
 url                      : https://joshwolstenholme.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joshwolstenholme/joshwolstenholme.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Dr Josh Wolstenholme"
   avatar           : "profile.JPG"
-  bio              : "Research Associate in Geoscience"
+  bio              : "Vice-Chancellor Independent Research Fellow"
   location         : "Loughborough, England"
   employer         : "Loughborough University"
   pubmed           : 
@@ -103,14 +103,14 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/joshwolstenholme/"
   orcid            : "https://orcid.org/0000-0001-9244-7210"
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "josh_NFM"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
