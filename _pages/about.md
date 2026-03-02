@@ -16,15 +16,13 @@ I'm interested in how natural flood management influences geomorphic change, and
 
 ## Background
 
-|  				 | Position 								   | Location				 |
-|:---------------|:--------------------------------------------|:------------------------|
-| 2026 - present | Lecturer in Physical Geography  			   | Loughborough University |
-| 2025 - 2026  	 | Vice-Chancellor Independent Research Fellow | Loughborough University |
-| 2023 - 2025	 | Research Associate in Geosciece 			   | Loughborough University |	
-|----------------------------------------------------------------------------------------|
-| 2023 - 2023	 | Postdoctoral Research Assistant 			   | University of Hull		 |
-| 2020 - 2023  	 | Specialist Research Assistant			   | University of Hull		 |
-| 2018 - 2023	 | *PhD Physical Geography*		 			   | University of Hull		 |	
-|----------------------------------------------------------------------------------------|
-| 2017 - 2018 	 | MSc (by Research) Physical Geography		   | University of Leeds	 |
-| 2014 - 2017  	 | BSc (Hons) Geological Sciences			   | University of Leeds	 |	
+|  				 	 | Position 								   | Location				 	 |
+|:-------------------|:--------------------------------------------|:----------------------------|
+| **2026 - present** | **Lecturer in Physical Geography**		   | **Loughborough University** |
+| 2025 - 2026   	 | Vice-Chancellor Independent Research Fellow | Loughborough University 	 |
+| 2023 - 2025	     | Research Associate in Geosciece 			   | Loughborough University 	 |
+| 2023 - 2023	     | Postdoctoral Research Assistant 			   | University of Hull		 	 |
+| 2020 - 2023   	 | Specialist Research Assistant			   | University of Hull		 	 |
+| **2018 - 2023**	 | **PhD Physical Geography**		 		   | **University of Hull**  	 |	
+| 2017 - 2018 		 | MSc (by Research) Physical Geography		   | University of Leeds	 	 |
+| 2014 - 2017  		 | BSc (Hons) Geological Sciences			   | University of Leeds	 	 |	
