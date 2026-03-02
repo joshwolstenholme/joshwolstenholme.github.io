@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Josh, a Research Fellow based at Loughborough University.
+Hi! I'm Josh, a Lecturer in Physical Geography based at Loughborough University.
 
 My work focuses on the influence of sediment transport and geomorphic change on flood risk, using a combination of numerical modelling and field observations.
 
@@ -16,6 +16,11 @@ I'm interested in how natural flood management influences geomorphic change, and
 
 ## Background
 
-I completed my PhD in Physical Geography in 2023 at the [University of Hull](https://www.hull.ac.uk){:target="_blank"}, with a focus on understanding the impact of leaky wooden dams on fluvial geomorphology, ultimately integrating these observations into a landscape evolution model.
-
-Prior to this, I completed a Masters by Research looking at surface hydrological connectivity in semi-arid environments at the [University of Leeds](https://www.leeds.ac.uk){:target="_blank"}, and a BSc in Geological Sciences, also at Leeds.
+2026 - present - Lecturer in Physical Geography (Loughborough University)
+2025 - 2026 - Vice-Chancellor Independent Research Fellow (Loughborough University)
+2023 - 2025 - Research Associate in Geoscience (Loughborough University)
+2023 - 2023 - Postdoctoral Research Assistant (University of Hull)
+2020 - 2023 - Specialist Research Assistant (University of Hull)
+2018 - 2023 - PhD Physical Geography ((University of Hull)
+2017 - 2018 - MSc (by Research) Physical Geography (University of Leeds)
+2014 - 2017 - BSc (Hons) Geological Sciences (University of Leeds)
